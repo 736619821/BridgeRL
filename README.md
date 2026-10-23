@@ -1,2 +1,2 @@
 # Mixture-of-Data-Experts
-Mixture of Data Experts (MDE)
+Experimental model use cases are stored in Release Assets.
