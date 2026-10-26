@@ -31,7 +31,6 @@ BridgeRL/
 We provide pre-trained and RL-evaluated small-scale proxy models (1M and 60M parameters). Users can directly load these weights to extract proxy metrics ($avg(k-ppl)$) and run regression fitting for data mixture prediction.
 
 | Model Size | Description |
-| :--- | :--- | :--- |
 | **1M Proxy** | 1M parameters, trained on diverse pre-training data mixtures |
 | **60M Proxy** | 60M parameters, scaled across online/offline RL (GRPO/DPO) evaluations |
 
